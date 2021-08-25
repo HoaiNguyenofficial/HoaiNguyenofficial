@@ -1,6 +1,5 @@
 ### Hi there 👋
-![alt](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif) | ![alt](https://media.giphy.com/media/vqJAJMr4klojK/giphy.gif)
-
+![alt](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif) 
 
 <!--
 **HoaiNguyenofficial/HoaiNguyenofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
