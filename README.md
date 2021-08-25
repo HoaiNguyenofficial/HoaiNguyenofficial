@@ -1,5 +1,5 @@
 ### Hi there 👋
-![alt](https://ibb.co/6NcyNrW)
+![alt](https://media.giphy.com/media/3oz8xZKXxXR0Amtlde/giphy.gif)
 <!--
 **HoaiNguyenofficial/HoaiNguyenofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
