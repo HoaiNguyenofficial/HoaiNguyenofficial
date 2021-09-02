@@ -1,6 +1,7 @@
 <!--
 ![alt](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif) 
 -->
+<h1 align="center" style="border: none;"> Hi there 👋, I'm Hoai</h1>
 ## Contact with me:
 <p align="center">
 	<a href="https://github.com/HoaiNguyenofficial"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
