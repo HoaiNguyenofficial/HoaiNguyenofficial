@@ -1,7 +1,7 @@
 <!--
 ![alt](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif) 
 -->
-<h1 align="center" style="border: none;"> Hi there 👋, I'm Hoai</h1>
+<h1 align="center" style="border: none;"> Hi guys 👋, I'm H-1 O-16 a-a I-127</h1>
 ## Contact with me:
 <p align="center">
 	<a href="https://www.linkedin.com/in/kunuit/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a></p>
@@ -27,17 +27,3 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </p>
-<!--
-**HoaiNguyenofficial/HoaiNguyenofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
